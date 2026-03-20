@@ -1,6 +1,6 @@
 /*
 File Name:		Senior Thesis
-File Purpose:	Summerization and Reggressions for Senior Thesis 
+File Purpose:	Summarization and Regressions for Senior Thesis 
 File Author:	Josh Tessler
 Date Created:	10/26/2025
 Last Updated:	3/11/2025
